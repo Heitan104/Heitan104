@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi, I'm Heitan — Computer Engineering Student @ TMU
+
+🔬 **Interests:** Embedded Software, Controls, Software Development  
+💻 **Top Tech Skills:** Python · React · C/C++  
+🏆 **Highlighted Project:** [TrueSight](https://github.com/Heitan104/TrueSight) <!-- Replace # with your project link -->
+
+---
+
+### About Me
+
+- 🎓 Currently studying Computer Engineering at Toronto Metropolitan University (TMU)
+- 🛠️ Passionate about building robust embedded systems and control solutions
+- 🏐 Volleyball enthusiast & avid gamer
+
+---
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/heitan-kandasamy) <!-- Replace with your LinkedIn URL -->
+
+---
+
+### Projects
+
+- **TrueSight**  
+  *A project focused on [Analyzing videos and determining if they are ai generated or not].*  
+  [View Project »](https://github.com/Heitan104/TrueSight) <!-- Replace # with your project link -->
+
+---
 
 <!--
-**Heitan104/Heitan104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Minimalistic/professional theme: clean sections, simple icons, no clutter.
+You can add more details or sections as you see fit!
 -->
